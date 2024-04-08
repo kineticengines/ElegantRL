@@ -6,8 +6,7 @@ numpy
 
 # plot/simulation
 matplotlib
-gym==0.25.2
-gym[Box2D]
+gymnasium==0.28.1
 
 # profiling
 wandb
